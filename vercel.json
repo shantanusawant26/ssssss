@@ -7,6 +7,6 @@
   ],
   "routes": [
     { "src": "/contact/(.*)", "dest": "/backend/app.js" },
-    { "src": "/(.*)", "dest": "docs/index.html" }
+    { "src": "/(.*)", "dest": "dd/index.html" }
   ]
 }
