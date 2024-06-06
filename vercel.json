@@ -6,6 +6,6 @@
     "config": { "distDir": "docs" }}
   ],
   "routes": [
-    { "src": "/(.*)", "dest": "index.html" }
+    { "src": "/(.*)", "dest": "docs/index.html" }
   ]
 }
