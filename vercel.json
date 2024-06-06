@@ -6,7 +6,6 @@
     "config": { "distDir": "docs" }}
   ],
   "routes": [
-    { "src": "/contact/(.*)", "dest": "/backend/app.js" },
     { "src": "/(.*)", "dest": "index.html" }
   ]
 }
